@@ -10,5 +10,6 @@ public class Main {
         Fxron.color="green";
         Fxron.size="4382742km";
         Fxron.temp="-23478274372k";
+
     }
 }
